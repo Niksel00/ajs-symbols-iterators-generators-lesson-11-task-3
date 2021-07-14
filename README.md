@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/Niksel00/ajs-symbols-iterators-generators-lesson-11-task-3/tree/master.svg?style=svg)](https://circleci.com/gh/Niksel00/ajs-symbols-iterators-generators-lesson-11-task-3/tree/master)
